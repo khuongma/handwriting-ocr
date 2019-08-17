@@ -1,6 +1,6 @@
 # handwriting-ocr
 
-Please import the following .jar items in the libraries file.
+Please import the following .jar items in the library file.
 My program uses java swing as a GUI. Everything will work without going to console.
 
 PLEASE WAIT MAX 15 SECONDS FOR MY METHODS TO ANALYZE YOUR HANDWRITING
